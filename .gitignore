@@ -1,0 +1,7 @@
+*.log
+*.mat
++*/
+*/Output/
+*/graphs/
+*/metropolis/
+.DS_Store
